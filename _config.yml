@@ -1,4 +1,3 @@
-layout_spectrum: 0.1192172693554312
 typography_spectrum: 0.5494715326931328
 color:
   brandStrength: 0.9587618857622147
@@ -11,4 +10,5 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.1192172693554312
 name: mpusateri
