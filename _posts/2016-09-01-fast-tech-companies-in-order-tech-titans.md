@@ -1,12 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://business.techtitans.org'
-  name: Techtitans
-  favicon: >-
-    http://96bda424cfcc34d9dd1a-0a7f10f87519dba22d2dbc6233a731e5.r41.cf2.rackcdn.com/metroplex/favicon_copy.png
-  domain: business.techtitans.org
+datePublished: '2016-09-01T01:56:56.935Z'
+sourcePath: _posts/2016-09-01-fast-tech-companies-in-order-tech-titans.md
+isBasedOnUrl: >-
+  http://business.techtitans.org/news/details/fast-tech-companies-in-order?_ga=1.132158023.839601645.1471877951
 keywords:
   - expressway
   - suite
@@ -18,17 +14,21 @@ keywords:
   - north
   - richardson
   - technology
+related: []
+author: []
+via: {}
+dateModified: '2016-09-01T01:56:56.449Z'
+title: 'Siepe #17 on 2016 Tech Titans'
+app_links: []
+publisher:
+  url: 'http://business.techtitans.org'
+  name: Techtitans
+  favicon: >-
+    http://96bda424cfcc34d9dd1a-0a7f10f87519dba22d2dbc6233a731e5.r41.cf2.rackcdn.com/metroplex/favicon_copy.png
+  domain: business.techtitans.org
 description: The Fast Tech awards recognize the fastest growing...
 inLanguage: en
-app_links: []
-isBasedOnUrl: >-
-  http://business.techtitans.org/news/details/fast-tech-companies-in-order?_ga=1.132158023.839601645.1471877951
-title: Fast Tech companies in order - Tech Titans
-datePublished: '2016-09-01T01:55:44.543Z'
-dateModified: '2016-09-01T01:55:29.761Z'
-via: {}
 starred: false
-sourcePath: _posts/2016-09-01-fast-tech-companies-in-order-tech-titans.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -36,4 +36,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Fast Tech companies in order - Tech Titans</h1><p>The Fast Tech awards recognize the fastest growing...</p><img src="https://chambermaster.blob.core.windows.net/images/chambers/9090/ChamberImages/logo/200x200/TechTitans_PMS.jpg" /></article>
+# Siepe \#17 on 2016 Tech Titans
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/655ae245176c83e76300c7e97bc3e98991f26fa9.jpg" /><h1>Fast Tech companies in order - Tech Titans</h1><p>The Fast Tech awards recognize the fastest growing...</p></article>
