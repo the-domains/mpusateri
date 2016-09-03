@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T02:22:05.943Z'
+datePublished: '2016-09-01T02:25:38.417Z'
 isBasedOnUrl: >-
   http://business.techtitans.org/news/details/fast-tech-companies-in-order?_ga=1.132158023.839601645.1471877951
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-01T02:21:52.754Z'
+dateModified: '2016-09-01T02:25:38.287Z'
 title: 'Siepe #17 2016 Tech Titans'
 app_links: []
 publisher:
@@ -29,8 +29,8 @@ description: >-
   Thanks to our clients and employees for the honor of #17 on the Top 25 Tech
   Titans in DFW. 
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-09-01-siepe-17-2016-tech-titans.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
